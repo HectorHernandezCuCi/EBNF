@@ -66,13 +66,6 @@ venv.bak/
 # PyCharm
 .idea/
 
-# Tkinter / GUI image assets (optional: ignore generated images if you have them)
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.ico
-
 # Logs
 *.log
 
