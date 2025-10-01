@@ -1,0 +1,10 @@
+{
+    "NumerosEnteros.png": {
+        "name": "Numero Enteros",
+        "description": "La regla, representada en este diagrama, define lo que constituye un elemento llamado \"NumerosEnteros\" (números enteros) basándose en los dígitos del 0 al 9."
+    },
+    "NumerosDecimales.png": {
+        "name": "Numeros Decimales",
+        "description": "La lectura del diagrama se realiza de izquierda a derecha, y el flujo se divide en tres componentes principales: el Signo inicial, la Parte Entera/Fraccionaria, y la Parte Exponencial."
+    }
+}
