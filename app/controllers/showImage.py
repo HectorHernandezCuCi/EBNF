@@ -49,10 +49,10 @@ def showImage(parentContainer, imageData):
     lbl_img.bind("<Button-1>", lambda e: zoomImage(imagePath))
 
     # Name label
-    lbl_name = tk.Label(scrollable_frame, text=imageName, font=("Arial", 12, "bold"), bg="#f0f0f0")
+    lbl_name = tk.Label(scrollable_frame, text=imageName, font=("Arial", 22, "bold"), bg="#f0f0f0")
     lbl_name.pack(pady=(5, 2))
 
     # Description label
-    lbl_desc = tk.Label(scrollable_frame, text=imageDesc, font=("Arial", 10), bg="#f0f0f0",
+    lbl_desc = tk.Label(scrollable_frame, text=imageDesc, font=("Arial", 20), bg="#f0f0f0",
                         wraplength=500, justify="left")
     lbl_desc.pack(pady=(0, 15))

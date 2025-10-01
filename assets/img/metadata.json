@@ -6,5 +6,113 @@
     "NumerosDecimales.png": {
         "name": "Numeros Decimales",
         "description": "La lectura del diagrama se realiza de izquierda a derecha, y el flujo se divide en tres componentes principales: el Signo inicial, la Parte Entera/Fraccionaria, y la Parte Exponencial."
+    },
+    "Captura de pantalla 2025-10-01 132652.png": {
+        "name": "Programa",
+        "description": "Un programa consiste en una secuencia de cero o más (0..N) elementos, donde cada elemento de la secuencia puede ser indistintamente una interface, un enum, una clase, una instruccion, una funcion o una declaracion. Estos elementos pueden aparecer en cualquier orden y repetirse cuantas veces sea necesario."
+    },
+    "Captura de pantalla 2025-10-01 132943.png": {
+        "name": "Tipo de datos",
+        "description": "La regla gramatical define que un tipo es obligatoriamente uno de los siguientes: un tipo de dato primitivo (int, float, double, bool, string, char), un tipo complejo definido por un identificador (nombre de clase/tipo), o un array."
+    },
+    "Captura de pantalla 2025-10-01 132952.png": {
+        "name": "Array",
+        "description": "Esta regla describe la declaración de un tipo de arreglo. Por ejemplo, si quieres declarar una variable que sea un arreglo de enteros, la sintaxis sería int[] miArreglo;."
+    },
+    "Captura de pantalla 2025-10-01 133000.png": {
+        "name": "Clases",
+        "description": "Una clase se define como la palabra clave class seguida de un identificador, opcionalmente seguida de la palabra clave extends y otro identificador (la clase padre), y finalmente, un cuerpo delimitado por llaves ({...}), que puede contener cero o más miembros."
+    },
+    "Captura de pantalla 2025-10-01 133006.png": {
+        "name": "Miembro",
+        "description": "La regla gramatical miembro define que cualquier elemento dentro del cuerpo de una clase (como se vio en la regla clase:) debe ser obligatoriamente un atributo, un método, o un constructor. Estos son los tres componentes fundamentales que definen la estructura y el comportamiento de una clase en la programación orientada a objetos."
+    },
+    "Captura de pantalla 2025-10-01 133041.png": {
+        "name": "Atributo",
+        "description": "Un atributo se define como un modificador de visibilidad opcional, seguido obligatoriamente por su tipo, su identificador (nombre), y finalizado con un punto y coma."
+    },
+    "Captura de pantalla 2025-10-01 133048.png": {
+        "name": "Constructor",
+        "description": "Un constructor se declara mediante un identificador (nombre), seguido de paréntesis que contienen una lista de parámetros opcionales, y finaliza con un bloque de código."
+    },
+    "Captura de pantalla 2025-10-01 133054.png": {
+        "name": "Metodo",
+        "description": "Un método se define como una función precedida opcionalmente por un nivel de visibilidad."
+    },
+    "Captura de pantalla 2025-10-01 133100.png": {
+        "name": "Enum",
+        "description": "Una enumeración se define como la palabra clave enum, seguida de un identificador (el nombre del enum), y luego, un cuerpo delimitado por llaves ({...}). Dentro del cuerpo, debe haber uno o más identificadores (las constantes del enum), separados por comas."
+    },
+    "Captura de pantalla 2025-10-01 133143.png": {
+        "name": "Interface",
+        "description": "Una interfaz se define como la palabra clave interface, seguida de un identificador (el nombre de la interfaz), y un cuerpo delimitado por llaves ({...}), el cual puede contener cero o más firmas de métodos (firmaMetodo)."
+    },
+    "Captura de pantalla 2025-10-01 133149.png": {
+        "name": "Firma metodo",
+        "description": "Una firma de método se define por su tipo de retorno, seguido de su identificador (nombre), una lista de parámetros opcionales encerrados entre paréntesis, y finaliza con un punto y coma."
+    },
+    "Captura de pantalla 2025-10-01 133155.png": {
+        "name": "Visibilidad",
+        "description": "La regla gramatical visibilidad define que el modificador de acceso de un miembro debe ser obligatoriamente public, private, o protected."
+    },
+    "Captura de pantalla 2025-10-01 133201.png": {
+        "name": "Declaracion",
+        "description": "Una declaración se define por su tipo, seguido de su identificador (nombre), opcionalmente seguida del símbolo de asignación y una expresión, y finaliza con un punto y coma."
+    },
+    "Captura de pantalla 2025-10-01 133206.png": {
+        "name": "Asignacion",
+        "description": "Una instrucción de asignación consiste en un identificador (la variable), seguido de un operador de asignación, una expresión (el valor), y finaliza con un punto y coma."
+    },
+    "Captura de pantalla 2025-10-01 133640.png": {
+        "name": "Operador Asignacion",
+        "description": "La regla gramatical operadorAsignacion define que el operador de asignación debe ser obligatoriamente =, +=, -=, *=, o /=."
+    },
+    "Captura de pantalla 2025-10-01 133646.png": {
+        "name": "Constante",
+        "description": "Una constante se define como la palabra clave const, seguida de su tipo, su identificador (nombre), el símbolo de asignación (=), una expresión (su valor inicial), y finaliza con un punto y coma."
+    },
+    "Captura de pantalla 2025-10-01 133650.png": {
+        "name": "Inmutable",
+        "description": "Un elemento inmutable se define por la palabra clave inmutable, seguida de su tipo, su identificador (nombre), el símbolo de asignación (=), una expresión (su valor inicial), y finaliza con un punto y coma."
+    },
+    "Captura de pantalla 2025-10-01 133655.png": {
+        "name": "Funcion",
+        "description": "Una función se define mediante un tipo de retorno opcional, un identificador (nombre), paréntesis que contienen una lista de parámetros opcionales, y un bloque de código obligatorio."
+    },
+    "Captura de pantalla 2025-10-01 133700.png": {
+        "name": "Declaracion Funcion",
+        "description": "Una declaración de función se define por un tipo de retorno opcional, un identificador (nombre), una lista de parámetros opcionales encerrados entre paréntesis, y finaliza con un punto y coma."
+    },
+    "Captura de pantalla 2025-10-01 133705.png": {
+        "name": "Parametros",
+        "description": "La regla gramatical define que parametros es una lista que consiste en uno o más elementos parametro, donde los parámetros adicionales están precedidos obligatoriamente por una coma (,)."
+    },
+    "Captura de pantalla 2025-10-01 133940.png": {
+        "name": "Parametro",
+        "description": "Un parámetro se define obligatoriamente por su tipo de dato, seguido de un identificador (el nombre de la variable que recibirá el valor), como en int edad."
+    },
+    "Captura de pantalla 2025-10-01 133947.png": {
+        "name": "Argumentos",
+        "description": "La regla gramatical define que argumentos es una lista que consiste en uno o más elementos expresion, donde las expresiones adicionales están precedidas obligatoriamente por una coma (,)."
+    },
+    "Captura de pantalla 2025-10-01 133952.png": {
+        "name": "Retorno",
+        "description": "Una instrucción de retorno consiste en la palabra clave return, seguida de una expresión opcional (el valor a devolver), y finalizada con un punto y coma (;)."
+    },
+    "Captura de pantalla 2025-10-01 133957.png": {
+        "name": "Bloque",
+        "description": "Un bloque de código se define por llaves ({...}) que contienen una secuencia opcional y repetible de comentarios, instrucciones, asignaciones, y declaraciones. Un bloque puede estar completamente vacío ({}) o contener cualquier número de los elementos listados."
+    },
+    "Captura de pantalla 2025-10-01 134005.png": {
+        "name": "Instruccion",
+        "description": "Una instruccion en este lenguaje es obligatoriamente un elemento ejecutable que controla datos (asignación), invoca código (llamada a función), o maneja el flujo de ejecución del programa (condicional, bucle, retorno, manejo de excepciones)."
+    },
+    "Captura de pantalla 2025-10-01 134011.png": {
+        "name": "Llamada Funcion",
+        "description": "Una llamadaFuncion consiste en un identificador (el nombre de la función), seguido de paréntesis que contienen una lista de argumentos opcionales."
+    },
+    "Captura de pantalla 2025-10-01 134017.png": {
+        "name": "Condicional",
+        "description": "Una condicional se define obligatoriamente por una cláusula if con una expresión de prueba entre paréntesis y un bloque de código. Opcionalmente, puede ir seguida de una cláusula else y su correspondiente bloque de código."
     }
 }
