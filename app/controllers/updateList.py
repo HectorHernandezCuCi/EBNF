@@ -11,7 +11,7 @@ def updateList(listFrame, imagesList, onClick=None):
     for imgData in imagesList:
         imgPath = imgData["path"]
         img = Image.open(imgPath)
-        img.thumbnail((80, 80))
+        img.thumbnail((200, 200))
         tkImg = ImageTk.PhotoImage(img)
         listFrame.imagesRefs.append(tkImg)
 
