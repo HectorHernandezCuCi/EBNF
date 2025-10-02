@@ -114,5 +114,153 @@
     "Captura de pantalla 2025-10-01 134017.png": {
         "name": "Condicional",
         "description": "Una condicional se define obligatoriamente por una cláusula if con una expresión de prueba entre paréntesis y un bloque de código. Opcionalmente, puede ir seguida de una cláusula else y su correspondiente bloque de código."
+    },
+    "booleano.png": {
+        "name": "Booleano",
+        "description": "Representa valores lógicos que pueden ser verdadero o falso."
+    },
+    "bucle.png": {
+        "name": "Bucle",
+        "description": "Construcción del lenguaje que permite repetir un conjunto de instrucciones (ej. for, while, do)."
+    },
+    "cadena.png": {
+        "name": "Cadena",
+        "description": "Secuencia de caracteres encerrados en comillas, usada para representar texto."
+    },
+    "caracter.png": {
+        "name": "Caracter",
+        "description": "Un único símbolo alfabético, numérico o especial, encerrado en comillas simples."
+    },
+    "case.png": {
+        "name": "Case",
+        "description": "Una rama dentro de una estructura switch, que define qué bloque de código ejecutar según el valor evaluado."
+    },
+    "catch.png": {
+        "name": "Catch",
+        "description": "Bloque que se ejecuta si ocurre una excepción dentro de un try."
+    },
+    "comentario.png": {
+        "name": "Comentario",
+        "description": "Texto dentro del código que no se ejecuta, sirve para documentación o notas del programador."
+    },
+    "comentarioLinea.png": {
+        "name": "Comentario en linea",
+        "description": "Comentario escrito en una sola línea, generalmente comienza con //."
+    },
+    "comentarioMultilinea.png": {
+        "name": "Comentario en multilinea",
+        "description": "Comentario que puede ocupar varias líneas, encerrado entre /* ... */."
+    },
+    "controlFlujo.png": {
+        "name": "Control de flujo",
+        "description": "Conjunto de estructuras que alteran el orden natural de ejecución de un programa (ej. if, switch, break, continue)."
+    },
+    "default.png": {
+        "name": "Default",
+        "description": "Rama por defecto de un switch, que se ejecuta si ninguna de las condiciones anteriores coincide."
+    },
+    "digito.png": {
+        "name": "Digito",
+        "description": "Un número individual del 0 al 9."
+    },
+    "documentacion.png": {
+        "name": "Documentacion",
+        "description": "Comentarios especiales diseñados para generar documentación automática del código (ej. /** ... */)."
+    },
+    "expresion.png": {
+        "name": "Expresion",
+        "description": "Construcción que combina variables, operadores y valores para producir un resultado."
+    },
+    "expresionAditiva.png": {
+        "name": "Expresion Aditiva",
+        "description": "Expresión que involucra operaciones de suma o resta."
+    },
+    "expresionComparacion.png": {
+        "name": "Expresion de comparacion",
+        "description": "Expresión que compara dos valores y produce un resultado lógico (verdadero o falso)."
+    },
+    "expresionLogica.png": {
+        "name": "Expresion Logica",
+        "description": "Expresión que combina valores lógicos mediante operadores como AND, OR, NOT."
+    },
+    "expresionMultiplicativa.png": {
+        "name": "Expresion Multiplicativa",
+        "description": "Expresión que utiliza operaciones de multiplicación, división o módulo."
+    },
+    "expresionPrimaria.png": {
+        "name": "Expresion Primaria",
+        "description": "Los elementos más básicos de una expresión, como literales, variables o expresiones entre paréntesis."
+    },
+    "expresionUnaria.png": {
+        "name": "Expresion Unaria",
+        "description": "Expresión formada por un operador que actúa sobre un único operando (ej. negación, incremento)."
+    },
+    "finally.png": {
+        "name": "Finally",
+        "description": "Bloque que siempre se ejecuta después de un try-catch, ocurra o no una excepción."
+    },
+    "identificador.png": {
+        "name": "Identificador",
+        "description": "Nombre que se le da a variables, funciones, clases o elementos definidos por el programador."
+    },
+    "ioFuncion.png": {
+        "name": "io Function",
+        "description": "Funciones de entrada y salida, como leer datos o mostrar resultados en pantalla."
+    },
+    "letra.png": {
+        "name": "Letra",
+        "description": "Un símbolo perteneciente al alfabeto (A–Z o a–z)."
+    },
+    "lineaDoc.png": {
+        "name": "Linea Doc",
+        "description": "Línea individual dentro de un comentario de documentación."
+    },
+    "literal.png": {
+        "name": "Literal",
+        "description": "Valor constante escrito directamente en el código (ej. números, cadenas, booleanos)."
+    },
+    "numero.png": {
+        "name": "Numero",
+        "description": "Representación general de un valor numérico."
+    },
+    "numerosDecimales.png": {
+        "name": "Numeros Decimales",
+        "description": "Números que contienen una parte entera y una parte fraccionaria, separados por un punto decimal."
+    },
+    "numerosEnteros.png": {
+        "name": "Numeros Enteros",
+        "description": "Números sin parte fraccionaria, positivos o negativos."
+    },
+    "operadorAritmeticoBinario.png": {
+        "name": "Operador Aritmetico Binario",
+        "description": "Operadores que realizan operaciones aritméticas entre dos valores (suma, resta, multiplicación, división, módulo)."
+    },
+    "operadorAritmeticoUnario.png": {
+        "name": "Operador Aritmetico Unario",
+        "description": "Operadores que realizan operaciones aritméticas sobre un solo valor (signo positivo o negativo)."
+    },
+    "operadorLogicoBinario.png": {
+        "name": "Operador Logico Binario",
+        "description": "Operadores que combinan dos valores lógicos (AND, OR)."
+    },
+    "operadorRelacional.png": {
+        "name": "Operador Relacional",
+        "description": "Operadores que comparan dos valores para determinar una relación (<, >, <=, >=)."
+    },
+    "signo.png": {
+        "name": "Signo",
+        "description": "Símbolo que indica positividad o negatividad en un número (+, -)."
+    },
+    "switch.png": {
+        "name": "Switch",
+        "description": "Estructura de selección múltiple que ejecuta diferentes bloques de código según el valor de una expresión."
+    },
+    "throw.png": {
+        "name": "Throw",
+        "description": "Instrucción usada para lanzar una excepción de manera explícita."
+    },
+    "tryCatch.png": {
+        "name": "TryCatch",
+        "description": "Conjunto de bloques utilizados para manejar excepciones: try intenta ejecutar código y catch captura errores si ocurren."
     }
 }
